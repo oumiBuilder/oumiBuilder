@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spanish**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python**, **Neuroplasticity** 
 
 - ⚡ Fun fact **I like learning new languages**
 
