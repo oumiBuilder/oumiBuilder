@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oumibuilder&label=Profile%20views&color=0e75b6&style=flat" alt="oumibuilder" /> </p>
 
-- 🔭 I’m currently working on ** A vocabulary builder powered by gemini**
+- 🔭 I’m currently working on **A vocabulary builder powered by gemini**
 
-- 🌱 I’m currently learning **Spanish**
+- 🌱 I’m currently learning **Spanish** 
 
-- 💬 Ask me about **python**, **Neuroplasticity** 
+- 💬 Ask me about **Python**, **Neuroplasticity**
 
 - ⚡ Fun fact **I like learning new languages**
 
